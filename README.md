@@ -102,5 +102,5 @@ Its amazing, what we can do in IT and my journey has just started.
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeppe-t&theme=onedark&no-bg=true&no-frame=true&column=-1)](#)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jeppe-t&icon=0&color=0)](https://visitcount.itsvg.in/analytics/ChristopherDN)
+[![](https://visitcount.itsvg.in/api?id=ChristopherDN&icon=0&color=0)](https://visitcount.itsvg.in/analytics/ChristopherDN)
 ![image](https://user-images.githubusercontent.com/82437206/224807149-b0f821a3-4fe5-4d4a-a7ed-973a3ecf9614.png)
