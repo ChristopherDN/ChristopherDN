@@ -10,7 +10,7 @@ Its amazing, what we can do in IT and my journey has just started.
 
 🌱 I’m currently learning Python and It-security  
 💬 Ask me about IT Security    
-⚡ Fun fact: As a teenager I blasted my first computer switched the power button from 220V to 110V. Good times:-)   
+⚡ Fun fact: When i was a teenager i got a hold of a large tower cabinet, and filled it with all the harddrives and ram, that i could put in it :-)   
 📫 How to reach me, hit the mail
 
 ## 💻Tech Stack
@@ -59,6 +59,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](#)
 [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat-square&logo=Kali-Linux&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
+[![Mac](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=windows&logoColor=white)](#)
 
 ### IDE
 
