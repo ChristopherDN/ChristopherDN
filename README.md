@@ -17,71 +17,71 @@ Its amazing, what we can do in IT and my journey has just started.
 
 ### Frontend
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](#)
-[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](#)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](#)
-[![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](#)
+[![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 
 ### Backend
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](#)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat-square&logo=Hibernate&logoColor=white)](#)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)](#)
-[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)](#)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)](#)
-[![PyPi](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat-square&logo=PyPI&logoColor=white)](#)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=Hibernate&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](#)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)](#)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
+[![PyPi](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](#)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
 
 ### Data
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](#)
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic)](#)
 
 
 ### Infrastructure
 
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](#)
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](#)
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)](#)
-[![ApacheTomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=flat-square&logo=Apache-Tomcat&logoColor=black)](#)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)](#)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)](#)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)](#)
+[![ApacheTomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=flat&logo=Apache-Tomcat&logoColor=black)](#)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](#)
 
 ### Services
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=Slack&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=Discord&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white)](#)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&style=flat&logoColor=fff)](#)
 
 
 ### OS
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](#)
-[![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat-square&logo=Kali-Linux&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
+[![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)](#)
 
 
 ### IDE
 
-[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white)](#)
-[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat-square)](#)
-[![WebStorm](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat)](#)
+[![WebStorm](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](#)
 
 ### Software
 
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat-square&logo=Insomnia&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
-[![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?&style=flat-square&logo=wireshark&logoColor=white)](#)
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
+[![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?&style=flat&logo=wireshark&logoColor=white)](#)
 
 ### CVS
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](#)
 
 ## 📊GitHub Stats
 
@@ -94,3 +94,4 @@ Its amazing, what we can do in IT and my journey has just started.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jeppe-t&icon=0&color=0)](https://visitcount.itsvg.in/analytics/ChristopherDN)
+![image](https://user-images.githubusercontent.com/82437206/224807149-b0f821a3-4fe5-4d4a-a7ed-973a3ecf9614.png)
