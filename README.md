@@ -103,4 +103,3 @@ Its amazing, what we can do in IT and my journey has just started.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChristopherDN&icon=0&color=0)](https://visitcount.itsvg.in/analytics/ChristopherDN)
-![image](https://user-images.githubusercontent.com/82437206/224807149-b0f821a3-4fe5-4d4a-a7ed-973a3ecf9614.png)
