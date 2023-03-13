@@ -36,7 +36,7 @@ Its amazing, what we can do in IT and my journey has just started.
 ### Data
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=flat-square&logo=aws&logoColor=white)](#)
+[![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic)](#)
 
 
 ### Infrastructure
