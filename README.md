@@ -79,8 +79,8 @@ Its amazing, what we can do in IT and my journey has just started.
 
 ## 📊GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=ChristopherDN-t&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](#)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jeppe-t&theme=dark&hide_border=true)](#)
+[![](https://github-readme-stats.vercel.app/api?username=ChristopherDN&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](#)  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherDN&theme=dark&hide_border=true)](#)
 
 ## 🏆GitHub Trophies
 
