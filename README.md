@@ -18,14 +18,13 @@ Its amazing, what we can do in IT and my journey has just started.
 ### Frontend
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
-[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](#)
 [![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 
 ### Backend
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](#)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=Hibernate&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](#)
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)](#)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)](#)
@@ -36,7 +35,7 @@ Its amazing, what we can do in IT and my journey has just started.
 ### Data
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](#)
-[![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 
 ### Infrastructure
@@ -51,8 +50,6 @@ Its amazing, what we can do in IT and my journey has just started.
 
 ### Services
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white)](#)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&style=flat&logoColor=fff)](#)
 
@@ -70,18 +67,32 @@ Its amazing, what we can do in IT and my journey has just started.
 
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)](#)
-[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat)](#)
-[![WebStorm](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](#)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](*)
 
 ### Software
 
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 [![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?&style=flat&logo=wireshark&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](#)
+[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](*)
+[ ](*)
+
+
+
+### Cloud Storage
+[![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)](*)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](*)
+[![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)](*)
+
 
 ### CVS
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](*)
+
 
 ## 📊GitHub Stats
 
