@@ -54,6 +54,8 @@ Its amazing, what we can do in IT and my journey has just started.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=Slack&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=Discord&logoColor=white)](#)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&style=flat&logoColor=fff)](#)
+
 
 ### OS
 
