@@ -22,6 +22,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](#)
 [![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 
+
 ### Backend
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](#)
@@ -31,6 +32,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
 [![PyPi](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](#)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
+
 
 ### Data
 
@@ -47,6 +49,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)](#)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](#)
+
 
 ### Services
 
@@ -69,6 +72,8 @@ Its amazing, what we can do in IT and my journey has just started.
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)](*)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](*)
+
 
 ### Software
 
@@ -79,11 +84,18 @@ Its amazing, what we can do in IT and my journey has just started.
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)](*)
 
 
-
 ### Cloud Storage
+
 [![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flate&logo=Dropbox&logoColor=white)](*)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](*)
 [![OneDrive](https://img.shields.io/badge/OneDrive-white?style=flat&logo=Microsoft%20OneDrive&logoColor=0078D4)](*)
+
+### Machine Learning Libraries 
+
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](*)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](*)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](*)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](*)
 
 
 ### CVS
