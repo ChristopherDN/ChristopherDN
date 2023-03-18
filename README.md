@@ -55,6 +55,7 @@ Its amazing, what we can do in IT and my journey has just started.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white)](#)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&style=flat&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](*)
 
 
 ### OS
@@ -101,7 +102,7 @@ Its amazing, what we can do in IT and my journey has just started.
 ### CVS
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](*)
+
 
 
 ## 📊GitHub Stats
