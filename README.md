@@ -64,7 +64,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)](#)
-[![Debian](https://img.shields.io/debian/v/:packageName?style=flat&logo=%23A81D33&logoColor=white)](#)
+[![Debian](https://img.shields.io/debian/debian-23A81D33?style=flat&logo=debian&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](#)
 
 
