@@ -64,7 +64,7 @@ Its amazing, what we can do in IT and my journey has just started.
 [![macOS](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat&logo)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat&logo=Debian)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](#)
 
 
@@ -81,7 +81,8 @@ Its amazing, what we can do in IT and my journey has just started.
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 [![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?&style=flat&logo=wireshark&logoColor=white)](#)
-[![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=flat&logo)](#)
+[![VMware](https://img.shields.io/badge/VMware-%-607078?style=flat&logo=wireshark&logoColor=white)](#)
+![VMware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](#)
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)](#)
